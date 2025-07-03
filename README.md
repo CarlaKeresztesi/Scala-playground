@@ -1,2 +1,2 @@
 # Scala-playground
-Codewars challenges, QA labs, etc.)
+Codewars challenges, QA labs, etc.
